@@ -1,9 +1,3 @@
----
-title: Mango / Keybind
-nav_order: 9010
-has_children: false
-parent: Cheatsheet
----
 
 
 # Mango / Keybind
