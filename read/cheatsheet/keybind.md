@@ -32,6 +32,7 @@ parent: Cheatsheet
 | Config File |
 | ----------- |
 | [~/.config/mango/config.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/config.conf) |
+| [~/.config/mango/setting.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/setting.conf) |
 | [~/.config/mango/env.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/env.conf) |
 | [~/.config/mango/bind.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/bind.conf) |
 | [~/.config/mango/rule.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/rule.conf) |
