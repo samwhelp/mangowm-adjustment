@@ -3,6 +3,7 @@
 # Mango Config
 
 * [Config File Path](#config-file-path)
+* [Keybind](docs/keybind.md)
 * [Arch Package](#arch-package)
 * [Usage](#usage)
 * [Link](#link)
