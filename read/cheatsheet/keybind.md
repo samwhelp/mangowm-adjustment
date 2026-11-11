@@ -72,7 +72,7 @@ parent: Cheatsheet
 | Keybind                    | Action                      | Command                               |
 | -------------------------- | --------------------------- | ------------------------------------- |
 | `Super + v`                | Overview                    | `toggleoverview`                      |
-| `Alt + Tab`                | Overview                    | `toggleoverview`                      |
+| `Alt + Tab`                | Overview Cycle Window       | `overcircle`                          |
 
 
 
@@ -84,19 +84,22 @@ parent: Cheatsheet
 
 | Keybind                    | Action                      | Command                               |
 | -------------------------- | --------------------------- | ------------------------------------- |
-| `Alt + Shift + d`          | Launcher drun               | spawn `rofi -show drun`               |
-| `Alt + Shift + r`          | Launcher run                | spawn `rofi -show run`                |
+| `Alt + Shift + d`          | Rofi show drun              | spawn `rofi -show drun`               |
+| `Alt + Shift + r`          | Rofi show run               | spawn `rofi -show run`                |
+| `Alt + Shift + w`          | Rofi show window            | spawn `rofi -show window`             |
 
 
 ### Application / Terminal
 
 | Keybind                    | Action                      | Command                               |
 | -------------------------- | --------------------------- | ------------------------------------- |
+| `Super + Enter`            | Terminal                    | spawn `xfce4-terminal`                |
 | `Alt + Enter`              | Terminal                    | spawn `xfce4-terminal`                |
 | `Alt + Shift + a`          | Terminal                    | spawn `xfce4-terminal`                |
-| `Alt + Ctrl + a`           | Terminal                    | spawn `foot`                          |
-| `Alt + Shift + t`          | Terminal                    | spawn `sakura`                        |
-| `Alt + Ctrl + t`           | Terminal                    | spawn `kitty`                         |
+| `Alt + Ctrl + a`           | Terminal                    | spawn `sakura`                        |
+| `Alt + Shift + t`          | Terminal                    | spawn `kitty`                         |
+| `Alt + Ctrl + t`           | Terminal                    | spawn `foot`                          |
+| `Alt + Shift + y`          | Drop Down Terminal          | spawn `xfce4-terminal --drop-down`    |
 
 
 ### Application / Favorite
