@@ -35,6 +35,14 @@
 | Config File Path |
 | ---------------- |
 | [~/.config/mango/config.conf](./asset/overlay/etc/skel/.config/mango/config.conf) |
+| [~/.config/mango/section/skeleton/main/sub/setting.conf](./asset/overlay/etc/skel/.config/mango/section/skeleton/main/sub/setting.conf ) |
+| [~/.config/mango/section/skeleton/main/sub/env.conf](./asset/overlay/etc/skel/.config/mango/section/skeleton/main/sub/env.conf) |
+| [~/.config/mango/section/skeleton/main/sub/bind.conf](./asset/overlay/etc/skel/.config/mango/section/skeleton/main/sub/bind.conf) |
+| [~/.config/mango/section/skeleton/main/sub/rule.conf](./asset/overlay/etc/skel/.config/mango/section/skeleton/main/sub/rule.conf) |
+| [~/.config/mango/section/skeleton/main/sub/monitor.conf](./asset/overlay/etc/skel/.config/mango/section/skeleton/main/sub/monitor.conf) |
+| [~/.config/mango/section/skeleton/main/sub/tag.conf](./asset/overlay/etc/skel/.config/mango/section/skeleton/main/sub/tag.conf) |
+| [~/.config/mango/autostart.sh](./asset/overlay/etc/skel/.config/mango/autostart.sh) |
+
 
 
 
