@@ -11,4 +11,5 @@
 ## ## Package / Mango
 ##
 
-mangowm-git
+mangowm
+#mangowm-git
