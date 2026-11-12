@@ -164,9 +164,26 @@
 
 ## Arch Package
 
+| Aarh Package |
+| ----------- |
+| [mangowm](https://archlinux.org/packages/extra/x86_64/mangowm/) |
+
+run to install [mangowm](https://archlinux.org/packages/extra/x86_64/mangowm/)
+
+``` sh
+sudo pacman -Sy --needed mangowm
+```
+
 | AUR Package |
 | ----------- |
 | [mangowm-git](https://aur.archlinux.org/packages/mangowm-git) |
+
+
+run to install [mangowm-git](https://aur.archlinux.org/packages/mangowm-git)
+
+``` sh
+yay -Sy --needed mangowm-git
+```
 
 
 
