@@ -146,6 +146,10 @@ parent: Cheatsheet
 | `Super + Shift + Left`     | Window Move                 | `movewin,-50,+0`                      |
 | `Super + Shift + Right`    | Window Move                 | `movewin,+50,+0`                      |
 
+| Mousebind                  | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
+| `Super + LeftDrag`         | Window Move                 | `moveresize,curmove`                  |
+
 
 ### Window / Resize
 
@@ -158,17 +162,22 @@ parent: Cheatsheet
 | `Super + Ctrl + Left`      | Window Resize               | `resizewin,-50,+0`                    |
 | `Super + Ctrl + Right`     | Window Resize               | `resizewin,+50,+0"`                   |
 
+| Mousebind                  | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
+| `Super + RightDrag`        | Window Resize               | `moveresize,curresize`                 |
+
 
 ### Window / Floating or Tiling
 
 | Keybind                    | Action                      | Command                               |
 | -------------------------- | --------------------------- | ------------------------------------- |
-| `Super + Escape`           | Window Toggle Floating      | `togglefloating                       |
-| `Alt + backslash`          | Window Toggle Floating      | `togglefloating                       |
+| `Alt + Escape`             | Window Toggle All Floating  | `toggle_all_floating`                 |
+| `Super + Escape`           | Window Toggle Floating      | `togglefloating`                      |
+| `Alt + backslash`          | Window Toggle Floating      | `togglefloating`                      |
 
 | Mousebind                  | Action                      | Command                               |
 | -------------------------- | --------------------------- | ------------------------------------- |
-| `Super + MiddleClick`      | Window Toggle Floating      | `togglefloating                       |
+| `Super + MiddleClick`      | Window Toggle Floating      | `togglefloating`                      |
 
 
 ### Window / Focus
